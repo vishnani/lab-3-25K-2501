@@ -9,5 +9,5 @@
    - 2nd elemenet
    - 3rd element
    - 4th element\
-***This text is italic and bold***\
+***This text is italic and bold***
 
