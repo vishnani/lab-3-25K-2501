@@ -8,6 +8,6 @@
    - 1st element in first unordered list
    - 2nd elemenet
    - 3rd element
-   - 4th element
+   - 4th element\
 ***This text is italic and bold***\
 
