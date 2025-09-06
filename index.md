@@ -1,15 +1,13 @@
-# Introduction to GitHub
-**This text is bold**\
-*This text is italized*\
-***This text is italic and bold***\
-~~Oh no i made a big blunder~~
-```
-Honesty is the best policy
-```
-H<sub>2</sub>O
-- [ ] this is
-- [ ] Kesa ho ap thek ya nhe\
+### Introduction to GitHub
 
 1. This is the main
-   - First sub topic\
-Second Sub topic\
+2. second ordered list
+3. third ordered list
+4. fourth ordered list
+   - underordered list
+   - 1st element in first unordered list
+   - 2nd elemenet
+   - 3rd element
+   - 4th element
+***This text is italic and bold***\
+
